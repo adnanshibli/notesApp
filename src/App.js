@@ -189,7 +189,6 @@ class App extends Component {
             </div>
         );
     };
-
     render() {
         const {validationErrors} = this.state;
         return (
